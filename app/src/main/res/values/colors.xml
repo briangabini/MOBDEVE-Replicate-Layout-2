@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="light_blue">#03a9f4</color>
+    <color name="shrine_pink_100">#FFEBEE</color>
+    <color name="shrine_pink_900">#B71C1C</color>
+    <color name="blue_0288d1">#0288d1</color>
+    <color name="gray">#e2e2e2</color>
+</resources>

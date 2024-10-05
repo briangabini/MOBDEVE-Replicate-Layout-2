@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Replicate Layout 2</string>
+    <string name="textfield_label">test</string>
+    <string name="imbtn1">Image Button 1</string>
+    <string name="_34_c">34°C</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="button_2">Button 2</string>
+    <string name="overcast">Overcast</string>
+    <string name="button_3">Button 3</string>
+    <string name="thunder">Thunder</string>
+    <string name="button_4">Button 4</string>
+    <string name="sunny">Sunny</string>
+    <string name="todo">TODO</string>
+</resources>
